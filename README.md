@@ -11,4 +11,4 @@ Data is taken from http://overpass-turbo.eu/
 
 ## Interface
 
-![alt text](https://github.com/nthanhkhang/Computer-Shop-Management/blob/main/Snapshot/Login.jpg?raw=true)
+![alt text](https://github.com/nthanhkhang/GUI-MAP/blob/main/Interface.png)
